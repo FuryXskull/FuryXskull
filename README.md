@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FuryXskull
+- 👋 Hi, I’m @Rehaan Khan
 - 👀 I’m interested in Programming not in u.
 - 🌱 I’m currently learning Solidity.
 - 😎 I know Python,HTML,CSS.
