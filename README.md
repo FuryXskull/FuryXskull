@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rehaan Khan
 - 👀 I’m interested in Programming not in u.
-- 🌱 I’m currently learning Solidity.
-- 😎 I know Python,HTML,CSS.
+- 🌱 I’m currently learning Javascript.
+- 😎 I know Python,HTML,CSS,Solidity.
 
 <!---
 FuryXskull/FuryXskull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
